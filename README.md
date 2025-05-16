@@ -1,1 +1,2 @@
 # blood-bank-management-system
+BBMS or blood bank management system is a software made using c++ to help blood banks manage blood records. This system consists of a admin to login using password which is stored in adminpwd.txt file.It uses 2 categories- one is as donor and other as patient. donor can donate blood by entering his information which is then stored in donor2.txt file.Patient can take blood whose record is stored i patient_list.txt file. It also has a blood inventory which keeps on updating after each donation or reduction.
